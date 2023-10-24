@@ -1,0 +1,21 @@
+.figure-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+
+  .figure {
+    text-align: center;
+  }
+
+  .figure img {
+    max-height: 650px; /* Adjust the height as needed */
+    width: auto;
+  }
+
+  .figure.big img {
+    max-height: 750px; /* Adjust the height as needed for the central figure */
+  }
+  .figcaption-spacing{
+    margin-top: 10px;
+  }
