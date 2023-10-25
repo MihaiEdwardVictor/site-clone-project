@@ -9,12 +9,12 @@
   }
 
   .figure img {
-    max-height: 650px; /* Adjust the height as needed */
+    max-height: 650px; 
     width: auto;
   }
 
   .figure.big img {
-    max-height: 750px; /* Adjust the height as needed for the central figure */
+    max-height: 750px; 
   }
   .figcaption-spacing{
     margin-top: 10px;
