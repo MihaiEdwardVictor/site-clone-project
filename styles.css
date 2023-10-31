@@ -19,3 +19,13 @@
   .figcaption-spacing{
     margin-top: 10px;
   }
+  .text-smaller{
+    font-size: 14px;
+  }
+  .icon-footer-height{
+    width: 24px;
+    height: 24px;
+  }
+  .hr-opacity{
+    opacity: 10%;
+  }
